@@ -130,5 +130,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Milad Nasiri - [@YourTwitter](https://twitter.com/YourTwitter)
+Milad Nasiri -
 Project Link: [https://github.com/miladnasiri/Tello-Digital-Twin-Dashboard](https://github.com/miladnasiri/Tello-Digital-Twin-Dashboard)
