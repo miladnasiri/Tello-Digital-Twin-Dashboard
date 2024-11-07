@@ -12,7 +12,7 @@ This project implements a digital twin system for the DJI Tello drone, providing
 
 The system follows a layered architecture that enables seamless integration between the physical drone and its digital representation:
 
-![Architecture Flowchart](image/flwchart.png)
+![Architecture Flowchart]([image/flwchart.png](https://github.com/miladnasiri/Tello-Digital-Twin-Dashboard/blob/main/image/Dashboard%20Usage%20Flow))
 
 ### Key Components
 
